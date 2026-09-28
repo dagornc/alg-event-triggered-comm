@@ -1,0 +1,9 @@
+[package]
+name = "event_triggered_comm_rs"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Implementation Rust de reference de ALG_EVENT_TRIGGERED_COMM, parite bit-a-bit avec la reference Python"
+repository = "https://github.com/dagornc/alg-event-triggered-comm"
+
+[dependencies]
